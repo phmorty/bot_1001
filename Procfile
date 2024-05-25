@@ -1,1 +1,1 @@
-worker: python bot.py
+web: gunicorn app:flask_app --log-file=- --log-level=debug
