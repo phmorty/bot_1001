@@ -15,7 +15,7 @@ import asyncio
 nest_asyncio.apply()
 
 # Токен вашего бота
-TOKEN = '7024208891:AAGanT6yX93tRHVaJLyO5-RRMErmDAie30Y'
+TOKEN = '' #здесь нужен токен
 
 # Состояния для ConversationHandler
 INPUT_ALBUMS = range(1)
