@@ -1,3 +1,5 @@
+gunicorn
 python-telegram-bot
 apscheduler
 nest-asyncio
+
